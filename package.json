@@ -1,0 +1,13 @@
+{
+  "name": "web42rocks",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "nodemon": "^2.0.7"
+  }
+}
